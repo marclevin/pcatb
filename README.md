@@ -137,7 +137,7 @@ profit_percentage = (profit / buy_cost) * 100  # 1.69% profit!
 ### Step 1: Clone or Download the Project
 ```bash
 # If using git
-git clone # fill in after publish
+git clone https://github.com/marclevin/pcatb.git
 cd pcatb
 ```
 
